@@ -5,6 +5,12 @@
       "left": "-55px",
       "top": "307px",
       "color": "#fffacd"
+    },
+    {
+      "text": "테스트2",
+      "left": "120px",
+      "top": "170px",
+      "color": "#fffacd"
     }
   ]
 }
