@@ -1,28 +1,2 @@
 {
-  "2026-11-18": [
-    {
-      "text": "123",
-      "left": "-67px",
-      "top": "338px",
-      "id": "note_w84vnbzi5"
-    },
-    {
-      "id": "note_rb7wooibq",
-      "text": "텟스트1",
-      "left": "-58px",
-      "top": "380px"
-    },
-    {
-      "id": "note_qjy3jg2tx",
-      "text": "테스트2",
-      "left": "155px",
-      "top": "625px"
-    },
-    {
-      "id": "note_i6xr3fa5k",
-      "text": "테스트3",
-      "left": "268px",
-      "top": "283px"
-    }
-  ]
 }
